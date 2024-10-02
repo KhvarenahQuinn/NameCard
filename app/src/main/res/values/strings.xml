@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NameCard</string>
+    <string name="phone">+62 88888888888</string>
+    <string name="share">\@Rean</string>
+    <string name="mail">rean.layung@students.utdi.ac.id</string>
+    <string name="name">Rean Layung Sukmo</string>
+    <string name="status">Student</string>
+</resources>
